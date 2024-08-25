@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Khalil Abdur-Rashid",
+        "department": "N/A",
+        "email": "khalil_abdur-rashid@harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/khalil-abdur-rashid",
+        "ratings": [
+            2,
+            3,
+            5,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "name": "Joshua Abel",
+        "department": "N/A",
+        "email": "jabel@fas.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/joshua-abel",
+        "ratings": [
+            5,
+            4
+        ]
+    },
+    {
+        "name": "Joseph Aldy",
+        "department": "N/A",
+        "email": "joseph_aldy@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/joseph-aldy",
+        "ratings": [
+            4
+        ]
+    },
+    {
+        "name": "Danielle Allen",
+        "department": "N/A",
+        "email": "danielleallen@fas.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/danielle-allen",
+        "ratings": [
+            5,
+            4
+        ]
+    },
+    {
+        "name": "Graham Allison",
+        "department": "N/A",
+        "email": "graham_allison@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/graham-allison",
+        "ratings": [
+            5
+        ]
+    },
+    {
+        "name": "Marcella Alsan",
+        "department": "N/A",
+        "email": "N/A",
+        "profile_url": "https://www.hks.harvard.edu/faculty/marcella-alsan",
+        "ratings": []
+    },
+    {
+        "name": "Alan Altshuler",
+        "department": "N/A",
+        "email": "alan_altshuler@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/alan-altshuler",
+        "ratings": []
+    },
+    {
+        "name": "Matthew Andrews",
+        "department": "N/A",
+        "email": "matt_andrews@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/matthew-andrews",
+        "ratings": []
+    },
+    {
+        "name": "Desmond Ang",
+        "department": "N/A",
+        "email": "desmond_ang@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/desmond-ang",
+        "ratings": []
+    },
+    {
+        "name": "Arthur Applbaum",
+        "department": "N/A",
+        "email": "arthur_applbaum@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/arthur-applbaum",
+        "ratings": []
+    },
+    {
+        "name": "Luis Armona",
+        "department": "N/A",
+        "email": "larmona@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/luis-armona",
+        "ratings": []
+    },
+    {
+        "name": "Anil Arora",
+        "department": "N/A",
+        "email": "anilarora@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/anil-arora",
+        "ratings": []
+    },
+    {
+        "name": "Salvador Ascencio Pastora",
+        "department": "N/A",
+        "email": "kevin_wren@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/salvador-ascencio-pastora",
+        "ratings": []
+    },
+    {
+        "name": "Christopher Norio Avery",
+        "department": "N/A",
+        "email": "christopher_avery@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/christopher-norio-avery",
+        "ratings": []
+    },
+    {
+        "name": "Gloria Ayee",
+        "department": "N/A",
+        "email": "gloriaayee@fas.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/gloria-ayee",
+        "ratings": []
+    },
+    {
+        "name": "Lawrence Bacow",
+        "department": "N/A",
+        "email": "N/A",
+        "profile_url": "https://www.hks.harvard.edu/faculty/lawrence-bacow",
+        "ratings": []
+    },
+    {
+        "name": "Jie Bai",
+        "department": "N/A",
+        "email": "jie_bai@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/jie-bai",
+        "ratings": []
+    },
+    {
+        "name": "Mary Jo Bane",
+        "department": "N/A",
+        "email": "mary_jo_bane@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/mary-jo-bane",
+        "ratings": []
+    },
+    {
+        "name": "Lotem Bassan-Nygate",
+        "department": "N/A",
+        "email": "lbassan@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/lotem-bassan-nygate",
+        "ratings": []
+    },
+    {
+        "name": "Julie Battilana",
+        "department": "N/A",
+        "email": "julie_battilana@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/julie-battilana",
+        "ratings": []
+    },
+    {
+        "name": "Jeeyang Rhee Baum",
+        "department": "N/A",
+        "email": "jeeyang_rhee_baum@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/jeeyang-rhee-baum",
+        "ratings": []
+    },
+    {
+        "name": "Matthew Baum",
+        "department": "N/A",
+        "email": "matthew_baum@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/matthew-baum",
+        "ratings": []
+    },
+    {
+        "name": "Max Bazerman",
+        "department": "N/A",
+        "email": "mbazerman@hbs.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/max-bazerman",
+        "ratings": []
+    },
+    {
+        "name": "Robert Behn",
+        "department": "N/A",
+        "email": "redsox@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/robert-behn",
+        "ratings": []
+    },
+    {
+        "name": "Carleigh Beriont",
+        "department": "N/A",
+        "email": "beth_tremblay@hks.harvard.edu",
+        "profile_url": "https://www.hks.harvard.edu/faculty/carleigh-beriont",
+        "ratings": []
+    }
+]
